@@ -30,4 +30,5 @@
 ## [gcn](#content)
 ### [Basic Models](#content)
 1. **Benchmarking Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00982.pdf)
+
 *Vijay Prakash Dwivedi and Chaitanya K. Joshi and Thomas Laurent and Yoshua Bengio and Xavier Bresson* 
