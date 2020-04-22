@@ -1,5 +1,6 @@
-# Reading-List
-Welcome to add any papers you want to share!
+# Reading List for Machine Learning Group @ Tufts
+
+
 
 ## [Content](#content)
 
