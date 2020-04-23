@@ -27,7 +27,7 @@
 </tr>
 <tr><td colspan="2"><a href="#Neural Architecture Search">3. Neural Architecture Search</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#Comparisons">2.1 Comparisions </a></td>
+    <td>&emsp;<a href="#Comparisons">3.1 Comparisions </a></td>
 </tr> 
 </table>
 
@@ -40,4 +40,5 @@
 ## [Neural Architecture Search](#content)
 ### [Comparisons](#content)
 1. **NAS evaluation is frustratingly hard.** ICLR 2020. [paper](https://openreview.net/pdf?id=HygrdpVKvr)
+
  *Yang, Antoine, Pedro M. Esperança, and Fabio M. Carlucci.*
