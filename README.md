@@ -25,6 +25,10 @@
     <td>&emsp;<a href="#N3">2.3 N/A</td>
     <td>&ensp;<a href="#N4">2.4 N/A</td>
 </tr>
+<tr><td colspan="2"><a href="#Neural Architecture Search">3. Neural Architecture Search</a></td></tr> 
+<tr>
+    <td>&emsp;<a href="#Comparisons">2.1 Comparisions </a></td>
+</tr> 
 </table>
 
 ## [gcn](#content)
@@ -32,3 +36,8 @@
 1. **Benchmarking Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00982.pdf)
 
 *Vijay Prakash Dwivedi, Chaitanya K. Joshi , Thomas Laurent , Yoshua Bengio and Xavier Bresson.* 
+
+## [Neural Architecture Search](#content)
+### [Comparisons](#content)
+1. **NAS evaluation is frustratingly hard.** ICLR 2020. [paper](https://openreview.net/pdf?id=HygrdpVKvr)
+ *Yang, Antoine, Pedro M. Esperança, and Fabio M. Carlucci.*
