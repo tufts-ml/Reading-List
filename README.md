@@ -6,7 +6,7 @@
 
 <table>
 
-<tr><td colspan="2"><a href="#gcn">1. GCN</a></td></tr>
+<tr><td colspan="2"><a href="#Graph Neural Networks">1. Graph Neural Networks</a></td></tr>
 <tr>
     <td>&emsp;<a href="#basic-models">1.1 Basic Models</a></td>
     <td>&ensp;<a href="#graph-types">1.2 Graph Types</a></td>
@@ -31,7 +31,7 @@
 </tr> 
 </table>
 
-## [gcn](#content)
+## [Graph Neural Networks](#content)
 ### [Basic Models](#content)
 1. **Benchmarking Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00982.pdf)
 
