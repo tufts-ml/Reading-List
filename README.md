@@ -18,7 +18,7 @@
 
 <tr><td colspan="2"><a href="#NLP">2. NLP</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#N1">2.1 N/A</a></td>
+    <td>&emsp;<a href="#N1">2.1 BERT and alike</a></td>
     <td>&ensp;<a href="#N2">2.2 N/A</td>
 </tr> 
 <tr>
@@ -36,6 +36,13 @@
 1. **Benchmarking Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00982.pdf)
 
 *Vijay Prakash Dwivedi, Chaitanya K. Joshi , Thomas Laurent , Yoshua Bengio and Xavier Bresson.* 
+
+## [NLP](#content)
+### [BERT and alike](#content)
+1. **Xlnet: Generalized autoregressive pretraining for language understanding.** NeurIPS 2019. [paper](https://arxiv.org/pdf/1906.08237.pdf)
+
+*Yang, Z., Dai, Z., Yang, Y., Carbonell, J., Salakhutdinov, R. R., & Le, Q. V.*
+
 
 ## [Neural Architecture Search](#content)
 ### [Comparisons](#content)
