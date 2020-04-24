@@ -19,7 +19,7 @@
 <tr><td colspan="2"><a href="#NLP">2. NLP</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#N1">2.1 BERT and alike</a></td>
-    <td>&ensp;<a href="#N2">2.2 N/A</td>
+    <td>&ensp;<a href="#N2">2.2 Information Extraction </td>
 </tr> 
 <tr>
     <td>&emsp;<a href="#N3">2.3 N/A</td>
@@ -43,6 +43,9 @@
 
 *Yang, Z., Dai, Z., Yang, Y., Carbonell, J., Salakhutdinov, R. R., & Le, Q. V.*
 
+### [Information Extraction](#content)
+1. **Open information extraction with meta-pattern discovery in biomedical literature.** BCB2018 [paper](http://hanj.cs.illinois.edu/pdf/bcb18_xwang.pdf) 
+*Wang, Xuan, Yu Zhang, Qi Li, Yinyin Chen, and Jiawei Han.*
 
 ## [Neural Architecture Search](#content)
 ### [Comparisons](#content)
