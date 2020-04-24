@@ -45,6 +45,7 @@
 
 ### [Information Extraction](#content)
 1. **Open information extraction with meta-pattern discovery in biomedical literature.** BCB2018 [paper](http://hanj.cs.illinois.edu/pdf/bcb18_xwang.pdf) 
+
 *Wang, Xuan, Yu Zhang, Qi Li, Yinyin Chen, and Jiawei Han.*
 
 ## [Neural Architecture Search](#content)
