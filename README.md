@@ -37,6 +37,12 @@
 
 *Vijay Prakash Dwivedi, Chaitanya K. Joshi , Thomas Laurent , Yoshua Bengio and Xavier Bresson.* 
 
+### [Analysis](#content)
+1. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification** ICLR 2020. [paper](https://openreview.net/pdf?id=S1ldO2EFPr)
+
+*Kenta Oono, Taiji Suzuki*
+
+
 ## [NLP](#content)
 ### [BERT and alike](#content)
 1. **Xlnet: Generalized autoregressive pretraining for language understanding.** NeurIPS 2019. [paper](https://arxiv.org/pdf/1906.08237.pdf)
