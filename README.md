@@ -37,6 +37,10 @@
 
 *Vijay Prakash Dwivedi, Chaitanya K. Joshi , Thomas Laurent , Yoshua Bengio and Xavier Bresson.* 
 
+2. **Graph Agreement Models for Semi-Supervised Learning.** NIPS 2019. [paper](https://papers.nips.cc/paper/9076-graph-agreement-models-for-semi-supervised-learning.pdf)
+
+*Otilia Stretcu‡∗, Krishnamurthy Viswanathan†, Dana Movshovitz-Attias†, Emmanouil Antonios Platanios‡, Andrew Tomkins†, Sujith Ravi†*
+
 ### [Analysis](#content)
 1. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification** ICLR 2020. [paper](https://openreview.net/pdf?id=S1ldO2EFPr)
 
