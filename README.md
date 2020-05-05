@@ -53,6 +53,10 @@
 
 *Yang, Z., Dai, Z., Yang, Y., Carbonell, J., Salakhutdinov, R. R., & Le, Q. V.*
 
+2. **Visualizing and Measuring the Geometry of BERT** NeurIPS 2019. [paper](https://papers.nips.cc/paper/9065-visualizing-and-measuring-the-geometry-of-bert.pdf)
+
+*Andy Coenen, Emily Reif, Ann Yuan, Been Kim, Adam Pearce, Fernanda Viégas, Martin Wattenberg*
+
 ### [Information Extraction](#content)
 1. **Open information extraction with meta-pattern discovery in biomedical literature.** BCB2018 [paper](http://hanj.cs.illinois.edu/pdf/bcb18_xwang.pdf) 
 
