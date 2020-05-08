@@ -41,6 +41,10 @@
 
 *Otilia Stretcu‡∗, Krishnamurthy Viswanathan†, Dana Movshovitz-Attias†, Emmanouil Antonios Platanios‡, Andrew Tomkins†, Sujith Ravi†*
 
+3. **Position-aware Graph Neural Networks.** ICML 2019. [paper](https://arxiv.org/pdf/1906.04817.pdf)
+
+*Jiaxuan You, Rex Ying, Jure Leskovec*
+
 ### [Analysis](#content)
 1. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification** ICLR 2020. [paper](https://openreview.net/pdf?id=S1ldO2EFPr)
 
@@ -56,6 +60,10 @@
 2. **Visualizing and Measuring the Geometry of BERT** NeurIPS 2019. [paper](https://papers.nips.cc/paper/9065-visualizing-and-measuring-the-geometry-of-bert.pdf)
 
 *Andy Coenen, Emily Reif, Ann Yuan, Been Kim, Adam Pearce, Fernanda Viégas, Martin Wattenberg*
+
+3. **Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context.** ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1285.pdf)
+
+*Dai, Zihang, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, and Ruslan Salakhutdinov.*
 
 ### [Information Extraction](#content)
 1. **Open information extraction with meta-pattern discovery in biomedical literature.** BCB2018 [paper](http://hanj.cs.illinois.edu/pdf/bcb18_xwang.pdf) 
