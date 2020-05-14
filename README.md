@@ -65,6 +65,10 @@
 
 *Dai, Zihang, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, and Ruslan Salakhutdinov.*
 
+4. **BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning** ICML 2019. [paper](https://arxiv.org/abs/1902.02671)
+
+*Asa Cooper Stickland, Iain Murray.*
+
 ### [Information Extraction](#content)
 1. **Open information extraction with meta-pattern discovery in biomedical literature.** BCB2018 [paper](http://hanj.cs.illinois.edu/pdf/bcb18_xwang.pdf) 
 
