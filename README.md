@@ -69,6 +69,14 @@
 
 *Asa Cooper Stickland, Iain Murray.*
 
+5. **BERT Rediscovers the Classical NLP Pipeline** ACL 2019. [paper](https://arxiv.org/pdf/1905.05950.pdf)
+
+*Tenney, I., Das, D. and Pavlick, E*
+
+6. **What does BERT learn about the structure of language?** ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1356.pdf)
+
+*Jawahar, G., Sagot, B. and Seddah, D*
+
 ### [Information Extraction](#content)
 1. **Open information extraction with meta-pattern discovery in biomedical literature.** BCB2018 [paper](http://hanj.cs.illinois.edu/pdf/bcb18_xwang.pdf) 
 
