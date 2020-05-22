@@ -77,6 +77,9 @@
 
 *Jawahar, G., Sagot, B. and Seddah, D*
 
+7. **Distilling Knowledge Learned in BERT for Text Generation** ACL 2020. [paper] (https://arxiv.org/pdf/1911.03829.pdf)
+*JYen-Chun Chen, Zhe Gan, Yu Cheng, Jingzhou Liu, Jingjing Liu*
+
 ### [Information Extraction](#content)
 1. **Open information extraction with meta-pattern discovery in biomedical literature.** BCB2018 [paper](http://hanj.cs.illinois.edu/pdf/bcb18_xwang.pdf) 
 
