@@ -22,7 +22,7 @@
     <td>&ensp;<a href="#N2">2.2 Information Extraction </td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#N3">2.3 N/A</td>
+    <td>&emsp;<a href="#N3">2.3 Probabilistic models </td>
     <td>&ensp;<a href="#N4">2.4 N/A</td>
 </tr>
 <tr><td colspan="2"><a href="#Neural Architecture Search">3. Neural Architecture Search</a></td></tr> 
@@ -77,7 +77,7 @@
 
 *Jawahar, G., Sagot, B. and Seddah, D*
 
-7. **Distilling Knowledge Learned in BERT for Text Generation** ACL 2020. [paper] (https://arxiv.org/pdf/1911.03829.pdf)
+7. **Distilling Knowledge Learned in BERT for Text Generation** ACL 2020. [paper](https://arxiv.org/pdf/1911.03829.pdf)
 *Yen-Chun Chen, Zhe Gan, Yu Cheng, Jingzhou Liu, Jingjing Liu*
 
 ### [Information Extraction](#content)
@@ -92,6 +92,12 @@
 3. **On the Possibilities and Limitations of Multi-hop Reasoning Under Linguistic Imperfections.** [paper](https://arxiv.org/pdf/1901.02522.pdf)
 
 *Daniel Khashabi1∗ Erfan Sadeqi Azer2 Tushar Khot1 Ashish Sabharwal1 Dan Roth3*
+
+### [Probabilisitc modles](#content)
+
+1. **Unsupervised Recurrent Neural Network Grammars.** NAACL-HLT 2019. [paper](https://www.aclweb.org/anthology/N19-1114.pdf)
+
+*Kim, Yoon, Alexander M. Rush, Lei Yu, Adhiguna Kuncoro, Chris Dyer, and Gábor Melis.*
 
 ## [Neural Architecture Search](#content)
 ### [Comparisons](#content)
