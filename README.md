@@ -85,9 +85,13 @@
 
 *Wang, Xuan, Yu Zhang, Qi Li, Yinyin Chen, and Jiawei Han.*
 
-2. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale** ACL 2019. [paper](https://arxiv.org/pdf/1905.05460.pdf)
+2. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale.** ACL 2019. [paper](https://arxiv.org/pdf/1905.05460.pdf)
 
 *Ming Ding†, Chang Zhou‡, Qibin Chen†, Hongxia Yang‡, Jie Tang†*
+
+3. **On the Possibilities and Limitations of Multi-hop Reasoning Under Linguistic Imperfections.** [paper](https://arxiv.org/pdf/1901.02522.pdf)
+
+*Daniel Khashabi1∗ Erfan Sadeqi Azer2 Tushar Khot1 Ashish Sabharwal1 Dan Roth3*
 
 ## [Neural Architecture Search](#content)
 ### [Comparisons](#content)
