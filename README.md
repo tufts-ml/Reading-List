@@ -85,6 +85,10 @@
 
 *Wang, Xuan, Yu Zhang, Qi Li, Yinyin Chen, and Jiawei Han.*
 
+2. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale** [paper](https://arxiv.org/pdf/1905.05460.pdf)
+
+*Ming Ding†, Chang Zhou‡, Qibin Chen†, Hongxia Yang‡, Jie Tang†*
+
 ## [Neural Architecture Search](#content)
 ### [Comparisons](#content)
 1. **NAS evaluation is frustratingly hard.** ICLR 2020. [paper](https://openreview.net/pdf?id=HygrdpVKvr)
