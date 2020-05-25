@@ -85,7 +85,7 @@
 
 *Wang, Xuan, Yu Zhang, Qi Li, Yinyin Chen, and Jiawei Han.*
 
-2. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale** [paper](https://arxiv.org/pdf/1905.05460.pdf)
+2. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale** ACL 2019. [paper](https://arxiv.org/pdf/1905.05460.pdf)
 
 *Ming Ding†, Chang Zhou‡, Qibin Chen†, Hongxia Yang‡, Jie Tang†*
 
