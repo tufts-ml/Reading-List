@@ -45,6 +45,12 @@
 
 *Jiaxuan You, Rex Ying, Jure Leskovec*
 
+### [Graph Types](#content)
+
+1. **Graph Convolutional Reinforcement Learning** ICLR 2020. [paper](https://openreview.net/pdf?id=HkxdQkSYDB)
+
+*Jiechuan Jiang, Chen Dun, Tiejun Huang, Zongqing Lu*
+
 ### [Analysis](#content)
 1. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification** ICLR 2020. [paper](https://openreview.net/pdf?id=S1ldO2EFPr)
 
