@@ -99,6 +99,10 @@
 
 *Daniel Khashabi1∗ Erfan Sadeqi Azer2 Tushar Khot1 Ashish Sabharwal1 Dan Roth3*
 
+4. **Semantic Graphs for Generating Deep Questions** [paper](https://arxiv.org/pdf/2004.12704.pdf)
+
+*Liangming Pan, Yuxi Xie Yansong Feng Tat-Seng Chua Min-Yen Kan*
+
 ### [Probabilisitc modles](#content)
 
 1. **Unsupervised Recurrent Neural Network Grammars.** NAACL-HLT 2019. [paper](https://www.aclweb.org/anthology/N19-1114.pdf)
