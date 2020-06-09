@@ -45,6 +45,9 @@
 
 *Jiaxuan You, Rex Ying, Jure Leskovec*
 
+4. **A Flexible Generative Framework for Graph-based Semi-supervised Learning**  Neurips 2019. [paper](http://papers.nips.cc/paper/8590-a-flexible-generative-framework-for-graph-based-semi-supervised-learning.pdf)
+*Jiaqi Ma, Weijing Tang, Ji Zhu, Qiaozhu Mei*
+
 ### [Graph Types](#content)
 
 1. **Graph Convolutional Reinforcement Learning** ICLR 2020. [paper](https://openreview.net/pdf?id=HkxdQkSYDB)
