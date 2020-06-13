@@ -46,7 +46,13 @@
 *Jiaxuan You, Rex Ying, Jure Leskovec*
 
 4. **A Flexible Generative Framework for Graph-based Semi-supervised Learning**  Neurips 2019. [paper](http://papers.nips.cc/paper/8590-a-flexible-generative-framework-for-graph-based-semi-supervised-learning.pdf)
+
 *Jiaqi Ma, Weijing Tang, Ji Zhu, Qiaozhu Mei*
+
+5. **Graph Transformer Networks** Neurips 2019. [paper](https://papers.nips.cc/paper/9367-graph-transformer-networks.pdf)
+
+*Seongjun Yun, Minbyul Jeong, Raehyun Kim, Jaewoo Kang, Hyunwoo J. Kim*
+
 
 ### [Graph Types](#content)
 
