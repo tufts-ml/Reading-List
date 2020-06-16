@@ -29,6 +29,10 @@
 <tr>
     <td>&emsp;<a href="#Comparisons">3.1 Comparisions </a></td>
 </tr> 
+<tr><td colspan="2"><a href="#Probabilistic Models">4. Probablistic Models</a></td></tr> 
+<tr>
+    <td>&emsp;<a href="#Comparisons">4.1 Theory </a></td>
+</tr> 
 </table>
 
 ## [Graph Neural Networks](#content)
@@ -123,3 +127,9 @@
 1. **NAS evaluation is frustratingly hard.** ICLR 2020. [paper](https://openreview.net/pdf?id=HygrdpVKvr)
 
  *Yang, Antoine, Pedro M. Esperança, and Fabio M. Carlucci.*
+ 
+## [Probilistic Models](#content)
+### [Theory](#content)
+1. **Computational Separations between Sampling and Optimization** Neurips 2019. [paper](https://papers.nips.cc/paper/9639-computational-separations-between-sampling-and-optimization.pdf)
+
+*Kunal Talwar*
