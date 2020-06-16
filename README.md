@@ -6,7 +6,7 @@
 
 <table>
 
-<tr><td colspan="2"><a href="#Graph Neural Networks">1. Graph Neural Networks</a></td></tr>
+<tr><td colspan="2"><a href="#Graph-Neural-Networks">1. Graph Neural Networks</a></td></tr>
 <tr>
     <td>&emsp;<a href="#basic-models">1.1 Basic Models</a></td>
     <td>&ensp;<a href="#graph-types">1.2 Graph Types</a></td>
@@ -18,18 +18,18 @@
 
 <tr><td colspan="2"><a href="#NLP">2. NLP</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#BERT and alike">2.1 BERT and alike</a></td>
-    <td>&ensp;<a href="#Information Extraction">2.2 Information Extraction </td>
+    <td>&emsp;<a href="#BERT-and-alike">2.1 BERT and alike</a></td>
+    <td>&ensp;<a href="#Information-Extraction">2.2 Information Extraction </td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#Parsing trees">2.3 Parsing trees</td>
+    <td>&emsp;<a href="#Parsing-trees">2.3 Parsing trees</td>
     <td>&ensp;<a href="#N4">2.4 N/A</td>
 </tr>
-<tr><td colspan="2"><a href="#Neural Architecture Search">3. Neural Architecture Search</a></td></tr> 
+<tr><td colspan="2"><a href="#Neural-Architecture-Search">3. Neural Architecture Search</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#Comparisons">3.1 Comparisions </a></td>
 </tr> 
-<tr><td colspan="2"><a href="#Probabilistic Models">4. Probablistic Models</a></td></tr> 
+<tr><td colspan="2"><a href="#Probabilistic-Models">4. Probablistic Models</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#Theory">4.1 Theory </a></td>
 </tr> 
