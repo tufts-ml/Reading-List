@@ -22,7 +22,7 @@
     <td>&ensp;<a href="#N2">2.2 Information Extraction </td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#N3">2.3 Probabilistic models </td>
+    <td>&emsp;<a href="#N3">2.3 Parsing trees</td>
     <td>&ensp;<a href="#N4">2.4 N/A</td>
 </tr>
 <tr><td colspan="2"><a href="#Neural Architecture Search">3. Neural Architecture Search</a></td></tr> 
