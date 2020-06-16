@@ -116,7 +116,7 @@
 
 *Liangming Pan, Yuxi Xie Yansong Feng Tat-Seng Chua Min-Yen Kan*
 
-### [Probabilisitc models](#content)
+### [Parsing trees](#content)
 
 1. **Unsupervised Recurrent Neural Network Grammars.** NAACL-HLT 2019. [paper](https://www.aclweb.org/anthology/N19-1114.pdf)
 
