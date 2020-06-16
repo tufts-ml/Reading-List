@@ -18,11 +18,11 @@
 
 <tr><td colspan="2"><a href="#NLP">2. NLP</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#N1">2.1 BERT and alike</a></td>
-    <td>&ensp;<a href="#N2">2.2 Information Extraction </td>
+    <td>&emsp;<a href="#BERT and alike">2.1 BERT and alike</a></td>
+    <td>&ensp;<a href="#Information Extraction">2.2 Information Extraction </td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#N3">2.3 Parsing trees</td>
+    <td>&emsp;<a href="#Parsing trees">2.3 Parsing trees</td>
     <td>&ensp;<a href="#N4">2.4 N/A</td>
 </tr>
 <tr><td colspan="2"><a href="#Neural Architecture Search">3. Neural Architecture Search</a></td></tr> 
@@ -31,7 +31,7 @@
 </tr> 
 <tr><td colspan="2"><a href="#Probabilistic Models">4. Probablistic Models</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#Comparisons">4.1 Theory </a></td>
+    <td>&emsp;<a href="#Theory">4.1 Theory </a></td>
 </tr> 
 </table>
 
