@@ -31,7 +31,7 @@
 </tr> 
 <tr><td colspan="2"><a href="#Probabilistic-Models">4. Probabilistic Models</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#Theory">4.1 Theory </a></td>
+    <td>&emsp;<a href="#Optimization">4.1 Theory </a></td>
 </tr> 
 </table>
 
@@ -129,7 +129,12 @@
  *Yang, Antoine, Pedro M. Esperança, and Fabio M. Carlucci.*
  
 ## [Probabilistic Models](#content)
-### [Theory](#content)
+### [Optimization](#content)
 1. **Computational Separations between Sampling and Optimization** Neurips 2019. [paper](https://papers.nips.cc/paper/9639-computational-separations-between-sampling-and-optimization.pdf)
 
 *Kunal Talwar*
+
+2. **Bayesian Optimization of Combinatorial Structures** ICML2018. [paper](https://arxiv.org/pdf/1806.08838.pdf)
+
+*Ricardo Baptista, Matthias Poloczek*
+
