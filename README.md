@@ -97,6 +97,7 @@
 *Jawahar, G., Sagot, B. and Seddah, D*
 
 7. **Distilling Knowledge Learned in BERT for Text Generation** ACL 2020. [paper](https://arxiv.org/pdf/1911.03829.pdf)
+
 *Yen-Chun Chen, Zhe Gan, Yu Cheng, Jingzhou Liu, Jingjing Liu*
 
 8. **MASS: Masked Sequence to Sequence Pre-training for Language Generation** ICML 2019. [paper](https://arxiv.org/pdf/1905.02450.pdf)
