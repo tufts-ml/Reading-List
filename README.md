@@ -99,6 +99,10 @@
 7. **Distilling Knowledge Learned in BERT for Text Generation** ACL 2020. [paper](https://arxiv.org/pdf/1911.03829.pdf)
 *Yen-Chun Chen, Zhe Gan, Yu Cheng, Jingzhou Liu, Jingjing Liu*
 
+8. **MASS: Masked Sequence to Sequence Pre-training for Language Generation** ICML 2019. [paper](https://arxiv.org/pdf/1905.02450.pdf)
+
+*Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, Tie-Yan Liu*
+
 ### [Information Extraction](#content)
 1. **Open information extraction with meta-pattern discovery in biomedical literature.** BCB2018 [paper](http://hanj.cs.illinois.edu/pdf/bcb18_xwang.pdf) 
 
