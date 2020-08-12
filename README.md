@@ -1,4 +1,4 @@
-# Reading List for Machine Learning Group @ Tufts
+# Reading List for Graph Neural Networks, NLP, and Related Areas.
 
 
 
