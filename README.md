@@ -1,4 +1,5 @@
-# Reading List for Graph Neural Networks, NLP, and Related Areas.
+# Reading List for Machine Learning Research
+## -- Graph Neural Networks, Probabilistic Modeling, NLP, and Related areas 
 
 
 
@@ -66,7 +67,7 @@
 
 ### [Pooling Methods](#content)
 
-1. **Graph U-Nets" ICML 2019. [paper](https://arxiv.org/pdf/1905.05178.pdf)
+1. **Graph U-Nets** ICML 2019. [paper](https://arxiv.org/pdf/1905.05178.pdf)
 
 *Hongyang Gao, Shuiwang Ji*
 
