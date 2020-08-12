@@ -64,10 +64,26 @@
 
 *Jiechuan Jiang, Chen Dun, Tiejun Huang, Zongqing Lu*
 
+### [Pooling Methods](#content)
+
+1. **Graph U-Nets" ICML 2019. [paper](https://arxiv.org/pdf/1905.05178.pdf)
+
+*Hongyang Gao, Shuiwang Ji*
+
+2. **Hierarchical graph representation learning with differentiable pooling** NEURIPS 2018. [paper](http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
+
+*Ying, Zhitao and You, Jiaxuan and Morris, Christopher and Ren, Xiang and Hamilton, Will and Leskovec, Jure*
+
+3. **Self-Attention Graph Pooling** ICML 2019 [paper](https://arxiv.org/pdf/1904.08082.pdf)
+
+*Junhyun Lee, Inyeop Lee, Jaewoo Kang*
+
 ### [Analysis](#content)
 1. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification** ICLR 2020. [paper](https://openreview.net/pdf?id=S1ldO2EFPr)
 
 *Kenta Oono, Taiji Suzuki*
+
+
 
 
 ## [NLP](#content)
