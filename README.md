@@ -54,10 +54,13 @@
 
 *Jiaqi Ma, Weijing Tang, Ji Zhu, Qiaozhu Mei*
 
-5. **Graph Transformer Networks** Neurips 2019. [paper](https://papers.nips.cc/paper/9367-graph-transformer-networks.pdf)
+5. **Graph Transformer Networks** Neurips 2019 [paper](https://papers.nips.cc/paper/9367-graph-transformer-networks.pdf)
 
 *Seongjun Yun, Minbyul Jeong, Raehyun Kim, Jaewoo Kang, Hyunwoo J. Kim*
 
+6. **MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing** ICML 2019 [paper](https://arxiv.org/pdf/1905.00067.pdf)
+
+*Abu-El-Haija, Sami and Perozzi, Bryan and Kapoor, Amol and Alipourfard, Nazanin and Lerman, Kristina and Harutyunyan, Hrayr and Steeg, Greg Ver and Galstyan, Aram*
 
 ### [Graph Types](#content)
 
