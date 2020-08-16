@@ -141,7 +141,7 @@
 
 *Liangming Pan, Yuxi Xie Yansong Feng Tat-Seng Chua Min-Yen Kan*
 
-5. **GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction.** [paper](https://www.aclweb.org/anthology/P19-1136.pdf)
+5. **GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction.** ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1136.pdf)
 
 *Tsu-Jui Fu, Peng-Hsuan Li, Wei-Yun Ma*
 
