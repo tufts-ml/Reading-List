@@ -146,7 +146,12 @@
 *Tsu-Jui Fu, Peng-Hsuan Li, Wei-Yun Ma*
 
 6. **OpenIE-based approach for Knowledge Graph construction from text.** [paper](https://www.sciencedirect.com/science/article/pii/S0957417418304329)
+
 *Jose L. Martinez-Rodriguez, Ivan Lopez-Arevalo, Ana B. Rios-Alvarado*
+
+7. **CycleGT: Unsupervised Graph-to-Text and Text-to-Graph Generation via Cycle Training.** [paper](https://arxiv.org/pdf/2006.04702.pdf)
+
+*Qipeng Guo, Zhijing Jin, Xipeng Qiu, Weinan Zhang, David Wipf, Zheng Zhang*
 
 ### [Parsing trees](#content)
 
