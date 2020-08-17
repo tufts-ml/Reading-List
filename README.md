@@ -145,6 +145,9 @@
 
 *Tsu-Jui Fu, Peng-Hsuan Li, Wei-Yun Ma*
 
+6. **OpenIE-based approach for Knowledge Graph construction from text.** [paper](https://www.sciencedirect.com/science/article/pii/S0957417418304329)
+*Jose L. Martinez-Rodriguez, Ivan Lopez-Arevalo, Ana B. Rios-Alvarado*
+
 ### [Parsing trees](#content)
 
 1. **Unsupervised Recurrent Neural Network Grammars.** NAACL-HLT 2019. [paper](https://www.aclweb.org/anthology/N19-1114.pdf)
