@@ -16,6 +16,10 @@
     <td>&emsp;<a href="#pooling-methods">1.3 Pooling Methods</a></td>
     <td>&ensp;<a href="#analysis">1.4 Analysis</a></td>
 </tr>
+<tr>
+    <td>&emsp;<a href="#graph-generation">1.5 Graph Generation</a></td>
+    <td>&ensp;<a href=>N/A</a></td>
+</tr>
 
 <tr><td colspan="2"><a href="#NLP">2. NLP</a></td></tr> 
 <tr>
@@ -87,8 +91,15 @@
 
 *Kenta Oono, Taiji Suzuki*
 
+### [Graph Generation](#content)
 
+1. **Learning Deep Generative Models of Graphs** ICML 2018. [paper](https://arxiv.org/pdf/1803.03324.pdf)
 
+*Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, Peter Battaglia * 
+
+2. **Efficient Graph Generation with Graph Recurrent Attention Networks** NIPS 2019. [paper](https://papers.nips.cc/paper/8678-efficient-graph-generation-with-graph-recurrent-attention-networks.pdf)
+
+*Renjie Liao, Yujia Li, Yang Song, Shenlong Wang, William L. Hamilton, David Duvenaud, Raquel Urtasun, Richard Zemel1*
 
 ## [NLP](#content)
 ### [BERT and alike](#content)
