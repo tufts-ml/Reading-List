@@ -18,7 +18,7 @@
 </tr>
 <tr>
     <td>&emsp;<a href="#graph-generation">1.5 Graph Generation</a></td>
-    <td>&ensp;<a href=>N/A</a></td>
+    <td>&ensp;<a href=>1.6 N/A</a></td>
 </tr>
 
 <tr><td colspan="2"><a href="#NLP">2. NLP</a></td></tr> 
