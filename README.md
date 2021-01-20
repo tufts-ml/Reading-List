@@ -135,6 +135,10 @@
 
 *Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, Tie-Yan Liu*
 
+9. **Cross-Thought for Sentence Encoder Pre-training** EMNLP 2020. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.30.pdf)
+
+*Shuohang Wang, Yuwei Fang, Siqi Sun, Zhe Gan, Yu Cheng, Jingjing Liu, Jing Jiang*
+
 ### [Information Extraction](#content)
 1. **Open information extraction with meta-pattern discovery in biomedical literature.** BCB2018 [paper](http://hanj.cs.illinois.edu/pdf/bcb18_xwang.pdf) 
 
