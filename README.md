@@ -95,6 +95,10 @@
 
 *Kenta Oono, Taiji Suzuki*
 
+2. **The Logical Expressiveness of Graph Neural Networks** ICLR 2020. [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
+
+*Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, and Juan Pablo Silva*
+
 ### [Graph Generation](#content)
 
 1. **Learning Deep Generative Models of Graphs** ICML 2018. [paper](https://arxiv.org/pdf/1803.03324.pdf)
