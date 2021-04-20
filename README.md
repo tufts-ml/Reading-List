@@ -86,6 +86,10 @@
 
 *Junhyun Lee, Inyeop Lee, Jaewoo Kang*
 
+4. **Rethinking pooling in graph neural networks** Neurips 2020 [paper](https://arxiv.org/pdf/2010.11418.pdf)
+
+*Diego Mesquita, Amauri H. Souza, and Samuel Kaski*
+
 ### [Analysis](#content)
 1. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification** ICLR 2020. [paper](https://openreview.net/pdf?id=S1ldO2EFPr)
 
